@@ -1,5 +1,3 @@
-![Portfolio Screenshot](pf.png)
-
 # 🌌 Himanshu Portfolio Website
 
 Welcome to my personal **portfolio website**, a modern showcase of my projects, skills, and contact information.  
