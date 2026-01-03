@@ -9,7 +9,7 @@ The website features smooth animations, typing effects, responsive design, and a
 
 ## 🔗 Live Demo
 You can preview the portfolio locally by opening `index.html` in a modern browser.  
-Or access the online demo here: [Live Demo](https://himanu09.github.io/himanu/)
+Or access the online demo here: [Live Demo](https://himanu09.github.io/himanu-portfolio/)
 
 ---
 
@@ -38,8 +38,8 @@ Or access the online demo here: [Live Demo](https://himanu09.github.io/himanu/)
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/himanu09/himanu.git
-   cd himanu
+   git clone https://github.com/himanu09/himanu-portfolio.git
+   cd himanu-portfolio
    
 ---
 
